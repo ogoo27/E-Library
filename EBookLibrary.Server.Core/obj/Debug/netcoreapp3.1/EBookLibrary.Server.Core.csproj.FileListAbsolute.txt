@@ -1,0 +1,38 @@
+C:\Code\E-Library\EBookLibraryApplication\EBookLibrary\EBookLibrary.Server.Core\bin\Debug\netcoreapp3.1\EBookLibrary.Server.Core.deps.json
+C:\Code\E-Library\EBookLibraryApplication\EBookLibrary\EBookLibrary.Server.Core\bin\Debug\netcoreapp3.1\EBookLibrary.Server.Core.dll
+C:\Code\E-Library\EBookLibraryApplication\EBookLibrary\EBookLibrary.Server.Core\bin\Debug\netcoreapp3.1\EBookLibrary.Server.Core.pdb
+C:\Code\E-Library\EBookLibraryApplication\EBookLibrary\EBookLibrary.Server.Core\bin\Debug\netcoreapp3.1\EBookLibrary.Commons.dll
+C:\Code\E-Library\EBookLibraryApplication\EBookLibrary\EBookLibrary.Server.Core\bin\Debug\netcoreapp3.1\EBookLibrary.DataAccess.dll
+C:\Code\E-Library\EBookLibraryApplication\EBookLibrary\EBookLibrary.Server.Core\bin\Debug\netcoreapp3.1\EBookLibrary.DTOs.dll
+C:\Code\E-Library\EBookLibraryApplication\EBookLibrary\EBookLibrary.Server.Core\bin\Debug\netcoreapp3.1\EBookLibrary.Models.dll
+C:\Code\E-Library\EBookLibraryApplication\EBookLibrary\EBookLibrary.Server.Core\bin\Debug\netcoreapp3.1\EBookLibrary.DataAccess.pdb
+C:\Code\E-Library\EBookLibraryApplication\EBookLibrary\EBookLibrary.Server.Core\bin\Debug\netcoreapp3.1\EBookLibrary.Commons.pdb
+C:\Code\E-Library\EBookLibraryApplication\EBookLibrary\EBookLibrary.Server.Core\bin\Debug\netcoreapp3.1\EBookLibrary.DTOs.pdb
+C:\Code\E-Library\EBookLibraryApplication\EBookLibrary\EBookLibrary.Server.Core\bin\Debug\netcoreapp3.1\EBookLibrary.Models.pdb
+C:\Code\E-Library\EBookLibraryApplication\EBookLibrary\EBookLibrary.Server.Core\obj\Debug\netcoreapp3.1\EBookLibrary.Server.Core.csproj.AssemblyReference.cache
+C:\Code\E-Library\EBookLibraryApplication\EBookLibrary\EBookLibrary.Server.Core\obj\Debug\netcoreapp3.1\EBookLibrary.Server.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\E-Library\EBookLibraryApplication\EBookLibrary\EBookLibrary.Server.Core\obj\Debug\netcoreapp3.1\EBookLibrary.Server.Core.AssemblyInfoInputs.cache
+C:\Code\E-Library\EBookLibraryApplication\EBookLibrary\EBookLibrary.Server.Core\obj\Debug\netcoreapp3.1\EBookLibrary.Server.Core.AssemblyInfo.cs
+C:\Code\E-Library\EBookLibraryApplication\EBookLibrary\EBookLibrary.Server.Core\obj\Debug\netcoreapp3.1\EBookLibrary.Server.Core.csproj.CoreCompileInputs.cache
+C:\Code\E-Library\EBookLibraryApplication\EBookLibrary\EBookLibrary.Server.Core\obj\Debug\netcoreapp3.1\EBookLibrary.Server.Core.csproj.CopyComplete
+C:\Code\E-Library\EBookLibraryApplication\EBookLibrary\EBookLibrary.Server.Core\obj\Debug\netcoreapp3.1\EBookLibrary.Server.Core.dll
+C:\Code\E-Library\EBookLibraryApplication\EBookLibrary\EBookLibrary.Server.Core\obj\Debug\netcoreapp3.1\EBookLibrary.Server.Core.pdb
+C:\Users\hp\Downloads\E-Library (1) (1)\E-Library\EBookLibraryApplication\EBookLibrary\EBookLibrary.Server.Core\bin\Debug\netcoreapp3.1\EBookLibrary.Server.Core.deps.json
+C:\Users\hp\Downloads\E-Library (1) (1)\E-Library\EBookLibraryApplication\EBookLibrary\EBookLibrary.Server.Core\bin\Debug\netcoreapp3.1\EBookLibrary.Server.Core.dll
+C:\Users\hp\Downloads\E-Library (1) (1)\E-Library\EBookLibraryApplication\EBookLibrary\EBookLibrary.Server.Core\bin\Debug\netcoreapp3.1\EBookLibrary.Server.Core.pdb
+C:\Users\hp\Downloads\E-Library (1) (1)\E-Library\EBookLibraryApplication\EBookLibrary\EBookLibrary.Server.Core\bin\Debug\netcoreapp3.1\EBookLibrary.Commons.dll
+C:\Users\hp\Downloads\E-Library (1) (1)\E-Library\EBookLibraryApplication\EBookLibrary\EBookLibrary.Server.Core\bin\Debug\netcoreapp3.1\EBookLibrary.DataAccess.dll
+C:\Users\hp\Downloads\E-Library (1) (1)\E-Library\EBookLibraryApplication\EBookLibrary\EBookLibrary.Server.Core\bin\Debug\netcoreapp3.1\EBookLibrary.DTOs.dll
+C:\Users\hp\Downloads\E-Library (1) (1)\E-Library\EBookLibraryApplication\EBookLibrary\EBookLibrary.Server.Core\bin\Debug\netcoreapp3.1\EBookLibrary.Models.dll
+C:\Users\hp\Downloads\E-Library (1) (1)\E-Library\EBookLibraryApplication\EBookLibrary\EBookLibrary.Server.Core\bin\Debug\netcoreapp3.1\EBookLibrary.DataAccess.pdb
+C:\Users\hp\Downloads\E-Library (1) (1)\E-Library\EBookLibraryApplication\EBookLibrary\EBookLibrary.Server.Core\bin\Debug\netcoreapp3.1\EBookLibrary.Commons.pdb
+C:\Users\hp\Downloads\E-Library (1) (1)\E-Library\EBookLibraryApplication\EBookLibrary\EBookLibrary.Server.Core\bin\Debug\netcoreapp3.1\EBookLibrary.DTOs.pdb
+C:\Users\hp\Downloads\E-Library (1) (1)\E-Library\EBookLibraryApplication\EBookLibrary\EBookLibrary.Server.Core\bin\Debug\netcoreapp3.1\EBookLibrary.Models.pdb
+C:\Users\hp\Downloads\E-Library (1) (1)\E-Library\EBookLibraryApplication\EBookLibrary\EBookLibrary.Server.Core\obj\Debug\netcoreapp3.1\EBookLibrary.Server.Core.csproj.AssemblyReference.cache
+C:\Users\hp\Downloads\E-Library (1) (1)\E-Library\EBookLibraryApplication\EBookLibrary\EBookLibrary.Server.Core\obj\Debug\netcoreapp3.1\EBookLibrary.Server.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Downloads\E-Library (1) (1)\E-Library\EBookLibraryApplication\EBookLibrary\EBookLibrary.Server.Core\obj\Debug\netcoreapp3.1\EBookLibrary.Server.Core.AssemblyInfoInputs.cache
+C:\Users\hp\Downloads\E-Library (1) (1)\E-Library\EBookLibraryApplication\EBookLibrary\EBookLibrary.Server.Core\obj\Debug\netcoreapp3.1\EBookLibrary.Server.Core.AssemblyInfo.cs
+C:\Users\hp\Downloads\E-Library (1) (1)\E-Library\EBookLibraryApplication\EBookLibrary\EBookLibrary.Server.Core\obj\Debug\netcoreapp3.1\EBookLibrary.Server.Core.csproj.CoreCompileInputs.cache
+C:\Users\hp\Downloads\E-Library (1) (1)\E-Library\EBookLibraryApplication\EBookLibrary\EBookLibrary.Server.Core\obj\Debug\netcoreapp3.1\EBookLibrary.Server.Core.csproj.CopyComplete
+C:\Users\hp\Downloads\E-Library (1) (1)\E-Library\EBookLibraryApplication\EBookLibrary\EBookLibrary.Server.Core\obj\Debug\netcoreapp3.1\EBookLibrary.Server.Core.dll
+C:\Users\hp\Downloads\E-Library (1) (1)\E-Library\EBookLibraryApplication\EBookLibrary\EBookLibrary.Server.Core\obj\Debug\netcoreapp3.1\EBookLibrary.Server.Core.pdb
